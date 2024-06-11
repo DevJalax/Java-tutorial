@@ -1,0 +1,59 @@
+Spring Integration
+
+Spring Security
+
+Spring Batch
+
+SOLID principles
+
+Multiple DB connect and multitenancy
+
+annotations
+
+Strings - String Builder , String Buffer , Regex , String Pool
+
+Concurrency - Thread creation , Thread lifecycle , Inter thread commuincation , Thread schedular , Thread pool , Executor framework
+Fork join framework , count down latch , cyclic barrier , phaser , exchanger , atomic variables , locks and semaphores
+
+Collections
+
+Streams
+
+Dynamic method dispatch and RMI
+
+Design patterns
+
+IOC - dependency injection , actuator , loader , SB starter , bean lifecycle , aop
+
+Jaxb
+
+Dozer
+
+Graal VM
+
+Hibernate :
+
+State of data maintanence
+
+diff between getbyxxx and findbyxxx
+
+lazy loading vs eager loading
+
+cascading and cache
+
+Logging levels : time based rolling policy
+
+HQL
+
+Persistence lifecycle
+
+Get() vs Load()
+
+Entity manager
+
+Criteria api
+
+
+Configurations : 
+
+Nginx , RabbitMQ , Redis , HttpClient , CloudFlare , AWS , DB
