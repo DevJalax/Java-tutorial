@@ -1,3 +1,10 @@
+DSA (Data Structures and Algorithms ) :
+1) Data structures : Array , String , Hashtable , Trees , Heap , Graph , Set , List , HashMap , Stack , Queue , Trie , Data stream , Iterator , Bitmask
+2) Algorithms : Sorting , Greedy , DP , Binary search , BFS , DFS , Recursion , BackTracking, Sliding window , Line sweep , Memoization , Rolling hash , Quickselect , Reservoir sampling , Bloom filters
+3) Game theory
+4) Combinatronics and number theory
+5) Geometrics - strongly connected component and Eulerian circuit
+
 Spring Integration
 
 Spring Security
@@ -8,7 +15,7 @@ SOLID principles
 
 Multiple DB connect and multitenancy
 
-annotations
+Annotations
 
 Strings - String Builder , String Buffer , Regex , String Pool
 
