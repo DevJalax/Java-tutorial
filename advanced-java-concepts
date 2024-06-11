@@ -9,7 +9,15 @@ Spring Integration
 
 Spring Security
 
-Spring Batch
+Spring Cloud (connecting spring applications to cloud)
+
+Spring AI (to use any ai model in spring project)
+
+Spring Batch (batch processing of data)
+
+Spring WebFlux (for handling streaming data)
+
+Spring Hateoas (link management)
 
 SOLID principles
 
