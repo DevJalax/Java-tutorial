@@ -7,7 +7,7 @@ DSA (Data Structures and Algorithms ) :
 
 Spring Integration
 
-Spring Security
+Spring Security + RBAC (to restrict users based on their access)
 
 Spring Cloud (connecting spring applications to cloud)
 
