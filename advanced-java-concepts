@@ -72,3 +72,32 @@ Criteria api
 Configurations : 
 
 Nginx , RabbitMQ , Redis , HttpClient , CloudFlare , AWS , DB
+
+Distributed systems :
+
+1) File storage system
+2) Database
+3) Cache
+4) Message queue
+5) LTM (Logging , Tracing and Monitoring)
+6) Config management
+7) Service discovery
+8) Load balancing
+9) Auto-scaling 
+10) Container orchestration
+11) Serverless platform
+12) Data processing pipeline
+13) Event sourcing system
+14) CQRS system
+15) saga pattern
+16) circuit breaker pattern
+17) retry pattern
+18) backpressure pattern
+19) throttling pattern
+20) rate limiting pattern
+21) bulkhead pattern
+22) fallback pattern
+23) health check pattern
+24) content delivery network (CDN)
+25) real-time data processing pipeline
+26) serverless data pipeline
