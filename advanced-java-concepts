@@ -36,7 +36,25 @@ Streams
 
 Dynamic method dispatch and RMI
 
-Design patterns
+
+API Fault-tolerance patterns :
+
+1) circuit breaker pattern
+
+2) retry pattern
+
+3) backpressure pattern
+
+4) throttling pattern
+
+5) rate limiting pattern
+
+6) bulkhead pattern
+
+7) fallback pattern
+
+8) health check pattern
+
 
 IOC - dependency injection , actuator , loader , SB starter , bean lifecycle , aop
 
@@ -45,6 +63,7 @@ Jaxb
 Dozer
 
 Graal VM
+
 
 Hibernate :
 
@@ -73,31 +92,52 @@ Configurations :
 
 Nginx , RabbitMQ , Redis , HttpClient , CloudFlare , AWS , DB
 
-Distributed systems :
 
-1) File storage system
-2) Database
-3) Cache
-4) Message queue
-5) LTM (Logging , Tracing and Monitoring)
-6) Config management
-7) Service discovery
-8) Load balancing
-9) Auto-scaling 
-10) Container orchestration
-11) Serverless platform
-12) Data processing pipeline
-13) Event sourcing system
-14) CQRS system
-15) saga pattern
-16) circuit breaker pattern
-17) retry pattern
-18) backpressure pattern
-19) throttling pattern
-20) rate limiting pattern
-21) bulkhead pattern
-22) fallback pattern
-23) health check pattern
-24) content delivery network (CDN)
-25) real-time data processing pipeline
-26) serverless data pipeline
+Back-end Architecture patterns : 
+
+1) Layered Architecture Pattern (MVC) (enterprise applications)
+
+2) Event-driven and Event Sourcing Architecture Pattern (CQRS) (Real-time data processing)
+
+3) Microkernel Architecture Pattern (Wordpress(CMS) and Eclipse(IDE))
+
+4) Microservices Architecture Pattern (Netflix , Uber , Amazon)
+
+5) Space-Based Architecture Pattern (Gaming and trading)
+
+6) Client-Server Architecture Pattern (web portals)
+
+7) Master-Slave Architecture Pattern (high availability and fault tolerance)(MongoDB , Hadoop)
+
+8) Pipe-Filter Architecture Pattern (Data processing pipeline)(Apache spark and Flink)
+
+9) Broker Architecture Pattern (RabbitMQ , ActiveMQ : Message Queues)
+
+10) Peer-to-Peer Architecture Pattern (Decentralized)(torrent, blockchain)
+
+11) Service Oriented Architecture Pattern (enterprise applications , legacy system integration)
+
+12) N-tier Architecture Pattern
+
+13) Hexagonal Architecture Pattern (Ports and Adapter) (Domain Driven Design)
+
+
+Distributed system components :
+
+1) Cache(Redis)
+
+2) Message queue (RabbitMQ)
+
+3) LTM (Logging , Tracing and Monitoring)(ELK)
+
+4) Service discovery (etcd)
+
+5) Load balancing (Cloud)
+
+6) Auto-scaling (Cloud)
+
+7) Config management and Container orchestration (Docker + Kubernetes)
+
+8) Serverless platform (Cloud)
+
+9) content delivery network (CDN)
