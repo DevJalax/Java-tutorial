@@ -58,7 +58,13 @@ API Fault-tolerance patterns :
 
 IOC - dependency injection , actuator , loader , SB starter , bean lifecycle , aop
 
-Jaxb
+Jaxb , JsonMan [serialization]
+
+JDBI / JDBC
+
+Mapstruct
+
+Unit Testing [Junit , Jmeter , Cucumber , Mockito] 
 
 Dozer
 
