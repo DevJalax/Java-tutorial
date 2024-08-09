@@ -5,6 +5,23 @@ DSA (Data Structures and Algorithms ) :
 4) Combinatronics and number theory
 5) Geometrics - strongly connected component and Eulerian circuit
 
+Array - Matrix , Array of arrays , Mountain array , sub-array / substring , max/min of array , music playlist , permutations , pair distance , sliding window , intervals , domino[top[],bottom[]] , remove box , [sum,diff,product,search,duplicate array of elements] , 
+pointer[Two Pointer Technique , Fast and Slow Pointer], Cyclic Sort , Subset Generation (Backtracking) , Modified Binary Search , Top K Elements , K-way Merge , Bitwise Operations , Kadane’s Algorithm
+
+String - Rabin-Karp Algorithm , Boyer-Moore Algorithm , KMP Algorithm (Knuth-Morris-Pratt) , Z Algorithm , Edit Distance (Levenshtein Distance) , Aho-Corasick Algorithm 
+
+Linkedlist - In-place Reversal , Merging Lists , Intersection Problems 
+
+Stack - Infix to Postfix Conversion , Balanced Parentheses , Next Greater Element
+
+Queue - Level Order Traversal , Task Scheduling , BFS
+
+Tree - BFS , DFS , Lowest Common Ancestor , Balanced Tree Check , Tree Serialization/Deserialization
+
+Graph - Topological Sorting , Dijkstra's Algorithm , Union-Find
+
+HashMap - Frequency Count , Two Sum Problem , Group Anagrams , Subarray Sum
+
 Spring Integration
 
 Spring Security + RBAC (to restrict users based on their access)
