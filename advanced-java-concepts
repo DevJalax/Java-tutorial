@@ -36,6 +36,12 @@ Spring WebFlux (for handling streaming data)
 
 Spring Hateoas (link management)
 
+monkey patching
+
+session management (login)
+
+service discovery
+
 SOLID principles
 
 Multiple DB connect and multitenancy
