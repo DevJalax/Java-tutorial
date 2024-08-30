@@ -40,7 +40,7 @@ monkey patching
 
 session management (login)
 
-service discovery
+service discovery (Eureka server)
 
 SOLID principles
 
